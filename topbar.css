@@ -1,0 +1,28 @@
+.topbar {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: teal;
+}
+
+.topbar h1 b {
+    color:#7899D4;
+}
+
+.topbar b:hover {
+    color: white;
+}
+
+.topbar h1 {
+    color: white;
+    float: left;
+}
+
+.topbar a {
+    color: white;
+    float: right;
+    padding: 31px 2px 5px;
+}
+
+.topbar a:hover {
+    color: #7899D4 ;
+}
+
